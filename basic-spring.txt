@@ -3,4 +3,5 @@
 ->MVC
 ->POM
 + Sample
--> http://www.mkyong.com/tutorials/spring-boot-tutorials/
+->
+The result is a tool that can now be used for building and managing any Java-based project

@@ -1,0 +1,10 @@
++ Maven is
+ -> The result is a tool that can now be used for building and managing any Java-based project.
++ Maven’s Objectives
+->Maven’s primary goal is to allow a developer to comprehend the complete state of a development effort in the shortest period of time. In order to attain this goal there are several areas of concern that Maven attempts to deal with:
+
+1) Making the build process easy
+2) Providing a uniform build system
+3) Providing quality project information
+4) Providing guidelines for best practices development
+5) Allowing transparent migration to new features
