@@ -1,0 +1,12 @@
++ MVC : Model View Controller
+-> is the name of a methodology or design pattern for successfully and efficiently relating the user interface to underlying data models.
+1) M: Model
+-> underlying, logical structure of data in a software 
+2) V: View
+-> the elements in the user interface
+3) C: Controller
+-> communicate between classes in the model and view
+
+-------------------------------
++ Reference
+-> http://whatis.techtarget.com/definition/model-view-controller-MVC
