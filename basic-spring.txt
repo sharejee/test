@@ -1,4 +1,6 @@
-https://spring.io/guides/gs/spring-boot/
++ https://spring.io/guides/gs/spring-boot/
 ->Maven build file
 ->MVC
 ->POM
++ Sample
+-> http://www.mkyong.com/tutorials/spring-boot-tutorials/
